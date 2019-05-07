@@ -1,0 +1,4 @@
+body > p {
+	max-width: 800px;
+	text-align: justify;
+}
